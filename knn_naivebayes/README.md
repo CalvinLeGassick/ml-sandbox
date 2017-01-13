@@ -1,6 +1,6 @@
 ***KNN + Naive Bayes Tests***
 
-This repository contains some simple experiements of running hand buily knn and naive bayes classifiers on the USC Glass Identification dataset (archive.ics.uci.edu/ml/datasets/Glass+Identification).
+This repository contains some simple experiements of running hand built knn and naive bayes classifiers on the UCI Glass Identification Data Set (archive.ics.uci.edu/ml/datasets/Glass+Identification).
 
 Running `python run` will train and evaluate both classifiers.
 
